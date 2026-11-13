@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/hero-mobile.png">
-  <img src="assets/hero.png" alt="白衣少年与黑金龙，无文字主视觉。">
+  <img src="assets/hero.png" alt="白衣少年、黑金龙与红色 Ascend 标识。">
 </picture>
 
 **ZhangDaWu / MortarGOD**
