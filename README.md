@@ -1,12 +1,11 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/hero-mobile.png">
-  <img src="assets/hero.png" alt="白衣少年郎与黑金龙；从上到下：ZHANGDAWU；我为天帝，当镇杀世间一切敌！；LegendMaker。">
+  <img src="assets/hero.png" alt="白衣少年与黑金龙，无文字主视觉。">
 </picture>
 
 **ZhangDaWu / MortarGOD**
 
-> 诗酒趁年华，仗剑走天涯。  
-> 陌上人如玉，公子世无双。
+> 纵有千古 横有八荒 仙之巅 傲世间
 
 编译器、C++ 与哈希算法，是这里的技术主线。从词法分析到 ARM 汇编，关注规则如何成为可运行的代码。
 
